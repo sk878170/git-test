@@ -22,4 +22,10 @@ LINK CAN BE GIVEN AS:
 [This opens youtube](youtube.com)
 
 You can also add an output of the link (for eg image here)
+
 ![wallpaper](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fwallpaper&psig=AOvVaw1TR-EzSJEpdoB2lCdrEnUS&ust=1720864903678000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjfmb2foYcDFQAAAAAdAAAAABAE)
+
+# Lists:
+- Item1
+- Item2
+- Item3
